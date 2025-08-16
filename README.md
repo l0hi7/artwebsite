@@ -18,7 +18,8 @@ node -v
 npm -v
 ```
 Then in the code folder run cmd and run the following commands
-"npm i"
-" npm run dev"
-
+```cmd
+npm i
+npm run dev
+```
 this will install the packages and start the application
